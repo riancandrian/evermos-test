@@ -9,3 +9,6 @@ Then how to at least reduce the possibility of this problem occurring? I think w
 1. Re-validate the deduction of the item stock when making a transaction number.
 2. Create an automatic cancel order feature if the customer does not make a payment according to the specified deadline. And of course the stock returns.
 3. Create realtime stock reports.
+
+For sample API please check :
+https://github.com/riancandrian/api-apotek
